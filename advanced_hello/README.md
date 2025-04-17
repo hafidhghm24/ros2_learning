@@ -19,7 +19,7 @@
 
 - Utilise une fonction de callback automatique
 
-##4. Mise en place d’un fichier launch.py avancé
+## 4. Mise en place d’un fichier launch.py avancé
 - Lance automatiquement talker + listener
 
 - Utilise un fichier .yaml pour passer des paramètres
