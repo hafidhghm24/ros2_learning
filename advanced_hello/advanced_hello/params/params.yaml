@@ -1,0 +1,5 @@
+talker:
+  ros__parameters:
+    frequency: 3.0
+    robot_name: "haf-bot"
+    debug_mode: true
